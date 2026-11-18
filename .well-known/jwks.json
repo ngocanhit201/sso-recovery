@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "emc-recovery-key-1",
+      "n": "sqEHD-hp9UqO176h7OE7qkp58ESpW7Po0UQy4LAzwIrZedBpKrc_k5h1PYTnYgY66rIVZ7YdcnWcpl4VvHNL7ygEru5NtGCDphxegE6wx_rpo12NaKoamk_Vw7vDYNiBFOr87DCWwJejLlk6KIiyZFm_gqwtDLMi1Yrw08N88eMzWHzDoFvFuEzGQuUO5lVCeBx76VOPftefGIL0wc0E6DlgN0wC5sszmha1uMZwWw9Yp5S-ipCs8SeyqSrK_IsGGwSRStu8gXiOPc5MCMd864TxjMZGD6Aau5tnyrwN-25fEFWqkTlKhbMTJ0_oYopnKOchcuwXznrYtxPRnevqyw",
+      "e": "AQAB"
+    }
+  ]
+}
