@@ -1,0 +1,7 @@
+{
+  "sub": "1",
+  "name": "admin",
+  "preferred_username": "admin",
+  "email": "admin@emc.local",
+  "email_verified": true
+}
